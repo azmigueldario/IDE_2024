@@ -135,6 +135,7 @@ suppressPackageStartupMessages(library(scales))
 suppressPackageStartupMessages(library(reactable))
 
 ## source helper R scripts
+  ## Make sure you are in the ~/workspace/module6_workspace/Module6/lab directory
 source("src/ggtree_helper.R")
 source("src/cluster_count_helper.R")
 source("src/cluster_helper.R")
